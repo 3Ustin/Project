@@ -1,0 +1,76 @@
+*{
+    padding: 0px;
+    margin:0px
+}
+.navBarBackground{
+    display: flex;
+    align-items: center;    
+    padding: 5px,0px;
+    height: 30px;
+    width: 100%;
+    background-color: rgb(92, 74, 53);
+}
+.navBarBackHeavy{
+    display: flex;
+    align-items: center;
+    border-radius: 20px ;
+    padding: 5px;
+    height: 20px;
+    width: 100%;
+    background-color: rgb(136, 108, 76);
+}
+.navBarBackLight{
+    
+    border-radius: 20px;
+    height: 10px;
+    width: 100%;
+    background-color: rgb(180, 144, 102);
+}
+.divImageHolder{
+    margin-top: -30px;
+    margin-left: 400px;
+    height: 100px;
+    width: 60%;
+    background-color: antiquewhite;
+    position: absolute;
+}
+.buldingImageHolder{
+    position: absolute;
+    margin-top: 10px;
+    background-color: rgb(146, 124, 96);
+    border-radius: 50px;
+    border: 2px solid rgb(179, 158, 127);
+    width: 80px;
+    height: 80px;
+    margin-left: 1000px;
+}
+.buldingImageHolderInner{
+    position: absolute;
+    margin-top: 15px;
+    background-color: rgb(231, 209, 180);
+    border-radius: 50px;
+    border: 2px solid rgb(197, 177, 151);
+    width: 70px;
+    height: 70px;
+    margin-left: 1005px;
+}
+.resourceImageHolder{
+    position: absolute;
+    margin-top: 10px;
+    background-color: rgb(146, 124, 96);
+    border-radius: 50px;
+    border: 2px solid rgb(179, 158, 127);
+    width: 80px;
+    height: 80px;
+    margin-left: 65px;
+}
+.resourceImageHolderInner{
+    position: absolute;
+    margin-top: 15px;
+    background-color: rgb(231, 209, 180);
+    border-radius: 50px;
+    border: 2px solid rgb(197, 177, 151);
+    width: 70px;
+    height: 70px;
+    margin-left: 70px;
+}
